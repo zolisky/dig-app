@@ -1,6 +1,6 @@
 # Daily Income Goal
 
-Public site for the Daily Income Goal (DIG) iPhone app: privacy policy and support.
+Public site for the Daily Income Goal (DIG) iPhone and Android app: privacy policy and support.
 
 - Site: https://zolisky.github.io/dig-app/
 - Privacy Policy: https://zolisky.github.io/dig-app/privacy.html
